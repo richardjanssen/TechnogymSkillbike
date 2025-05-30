@@ -1,7 +1,7 @@
 # TechnogymSkillbike
 Create .tcx files from MyWellness (Technogym) workouts 
 
-Sample MyWellness workout:
+Sample MyWellness workout (this can be obtained using dev tools):
 ```
 {
   "data": {
