@@ -4,7 +4,7 @@ using System.Text.Json;
 Console.WriteLine("Creating tcx file.");
 
 // Change this name
-var filename = "2025-05-06_workout";
+var filename = "2025-06-10_workout";
 
 var filePath = "Data/" + filename + ".json";
 using FileStream stream = File.OpenRead(filePath);
